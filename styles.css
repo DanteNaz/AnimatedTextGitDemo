@@ -4,14 +4,14 @@ body {
     align-items: center;
     height: 100vh;
 
-    background-color: teal;
+    background-color: rgb(212, 132, 166);
 
 }
 
 
 h1 {
 
-    font-size: 13rem;
+    font-size: 17rem;
     font-family: Dancing Script;
 }
 
