@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(14, 20, 58);
+}
+
+
+h1 {
+    font-size: 15rem;
+    font-family: Dancing Script;
+}
+
+.letter {
+    transition: color 1000ms;
+}
